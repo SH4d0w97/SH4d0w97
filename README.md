@@ -1,8 +1,7 @@
 
-
-🎉 Welcome to the README of legends! 
-This is your personal profile file. Treat it like a mixtape from your best self.
-
+<!--
+<h3 align="center">🎉 Welcome to the README of legends! This is your personal profile file. Treat it like a mixtape from your best self.</h3>
+-->
 
 <h1 align="center">Hey there 👋 I'm SH4d0w97</h1>
 <p align="center">🚀 Developer. 🧠 Tinkerer. 🎮 Button masher. 🔥 Chaos-driven creator.</p>
