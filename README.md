@@ -30,7 +30,7 @@
 | **Superpowers**  | Writing pun-filled commits • Debugging at 3AM • Rage-refactoring |
 
 
-
+<!--
 ## 🔥 Projects That Slap
 
 🎮 [**404-Game**](https://github.com/SH4d0w97/404-game)
@@ -44,7 +44,7 @@
 🚀 [**CoolApp™**](https://github.com/SH4d0w97/coolapp)
 
 > Productivity tool that may or may not distract you on purpose.
-
+-->
 
 
 ## 🎨 Hobbies & Chaos
@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sr-sooraj"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sr-sooraj/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
