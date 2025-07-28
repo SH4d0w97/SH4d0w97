@@ -90,8 +90,3 @@ This is your personal profile file. Treat it like a mixtape from your best self.
 You’re welcome.
 -->
 
-```
-
----
-
-```
