@@ -55,7 +55,6 @@ This is your personal profile file. Treat it like a mixtape from your best self.
 * 📚 Reading docs like they're novels (and forgetting half of it)
 * ☕ Coffee first. Then code. Then chaos.
 
----
 
 ## 🤝 Let's Connect!
 
@@ -65,7 +64,7 @@ This is your personal profile file. Treat it like a mixtape from your best self.
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
----
+
 
 ## 📈 Stats That Make Me Look Cool
 
@@ -74,7 +73,7 @@ This is your personal profile file. Treat it like a mixtape from your best self.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH4d0w97&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
----
+
 
 ## 👀 People Actually Came Here?
 
