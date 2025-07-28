@@ -94,5 +94,4 @@ You’re welcome.
 
 ---
 
-Want me to create a downloadable `.md` file or generate badges/trophies for real stats? Just say the word.
 ```
